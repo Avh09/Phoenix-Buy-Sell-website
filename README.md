@@ -28,7 +28,7 @@ Each logged-in user can play both **Buyer** and **Seller** roles.
 -  **Logout Option**
 -  **Token-Based Route Protection** using JWT
 -  **Hashed Passwords** via bcrypt
--  **(Bonus)** Google ReCAPTCHA or LibreCaptcha
+-  **Google ReCAPTCHA** 
 
 ---
 
@@ -73,7 +73,7 @@ Each logged-in user can play both **Buyer** and **Seller** roles.
 -  **Final Order** button to place orders (updates history and seller view)
 -  OTP generated (stored as hashed) for delivery validation
 
-### 7. Support Chatbot ( Bonus)
+### 7. Support Chatbot 
 
 -  Integrated AI chatbot (ChatGPT, Gemini, etc.) using third-party APIs
 -  Chat UI simulating Flipkart/Swiggy support
